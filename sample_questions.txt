@@ -1,0 +1,7 @@
+How many records are there?
+Show distribution by department
+Show average feedback_score by event_category
+Show top 10 department by count
+Show monthly trend by registration_date
+Show missing values
+Show correlation between feedback_score and attendance_numeric
